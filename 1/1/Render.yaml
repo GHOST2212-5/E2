@@ -3,5 +3,5 @@ services:
     name: aspnet-app
     env: docker
     plan: free
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./1/1/Dockerfile
     autoDeploy: true

@@ -1,0 +1,172 @@
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\appsettings.Development.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\appsettings.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.staticwebassets.runtime.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.exe
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.deps.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.runtimeconfig.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\1.pdb
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Bcl.HashCode.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Localization.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Newtonsoft.Json.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\System.Security.Permissions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.csproj.AssemblyReference.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.AssemblyInfoInputs.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.AssemblyInfo.cs
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.csproj.CoreCompileInputs.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.MvcApplicationPartsAssemblyInfo.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.RazorAssemblyInfo.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.RazorAssemblyInfo.cs
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.sourcelink.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets.build.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets.development.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets\msbuild.1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets\msbuild.build.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\staticwebassets.pack.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\scopedcss\bundle\1.styles.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\scopedcss\projectbundle\1.bundle.scp.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.csproj.Up2Date
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\refint\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.pdb
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\1.genruntimeconfig.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Авдеева_22\Практические задания\1\1\obj\Release\net8.0\ref\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\appsettings.Development.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\appsettings.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.staticwebassets.runtime.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.exe
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.deps.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.runtimeconfig.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\1.pdb
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Bcl.HashCode.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Localization.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.Identity.Client.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Newtonsoft.Json.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\System.Security.Permissions.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\bin\Release\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.csproj.AssemblyReference.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.AssemblyInfoInputs.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.AssemblyInfo.cs
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.csproj.CoreCompileInputs.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.MvcApplicationPartsAssemblyInfo.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.RazorAssemblyInfo.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.RazorAssemblyInfo.cs
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.sourcelink.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets.build.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets.development.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets\msbuild.1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets\msbuild.build.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.1.props
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\staticwebassets.pack.json
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\scopedcss\bundle\1.styles.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\scopedcss\projectbundle\1.bundle.scp.css
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.csproj.Up2Date
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\refint\1.dll
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.pdb
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\1.genruntimeconfig.cache
+E:\COLLEGE\Practice\23\Авдеева_23\Практические задания\Задание 2. Развертывание ASP.NET приложения\С помощью MS IIS\1\1\obj\Release\net8.0\ref\1.dll

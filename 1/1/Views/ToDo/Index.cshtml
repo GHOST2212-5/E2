@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ToDoItem>
+
+<h2>Список задач</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-@TempData["MessageType"]">@TempData["Message"]</div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Описание</th>
+            <th>Статус</th>
+            <th>Дедлайн</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@(item.IsCompleted ? "Выполнено" : "В процессе")</td>
+                <td>@item.Deadline?.ToString("yyyy-MM-dd")</td>
+                <td>
+                    @if (!item.IsCompleted)
+                    {
+                        <form asp-action="Complete" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-success btn-sm">Отметить как выполнено</button>
+                        </form>
+                    }
+                    <form asp-action="Delete" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary mt-3">Добавить задачу</a>

@@ -1,0 +1,16 @@
+.todo-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+
+    .todo-item input[type="checkbox"] {
+        margin-right: 10px;
+    }
+
+a.active {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #1b6ec2;
+}
